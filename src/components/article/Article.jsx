@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './article.css';
 
 const Article = ({ imgUrl, date, text }) => (
@@ -16,4 +16,4 @@ const Article = ({ imgUrl, date, text }) => (
   </div>
 );
 
-export default Article
+export default Article;

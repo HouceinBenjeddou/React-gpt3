@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './cta.css';
 
 const CTA = () => (
@@ -13,4 +13,4 @@ const CTA = () => (
   </div>
 );
 
-export default CTA
+export default CTA;
