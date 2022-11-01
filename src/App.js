@@ -3,7 +3,7 @@ import './App.css'
 import './index.css'
 
 import {Footer, Blog, Possibility, Features, WhatGPT3, Header} from './containers'
-import {Article, Brand, CTA, Feature, Navbar} from './components'
+import {Brand, CTA, Navbar} from './components'
 
 const App = () => {
   return (
